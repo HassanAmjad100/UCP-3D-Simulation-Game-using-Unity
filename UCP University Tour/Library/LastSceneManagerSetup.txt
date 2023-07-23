@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Grass And Flowers Pack 1/Example Scene/Example Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
